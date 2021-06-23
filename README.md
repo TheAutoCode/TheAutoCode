@@ -4,7 +4,7 @@ Rahul Sawant is an Automation and DevOps Lead Architect and he loves helping com
 He worked on various domain line Exchange, Lync, Active Directory, O365, Azure, AWS and having practical knowledge on PowerShell, Python,
 YAML, JSON, ARM Template, Terraform, Batch.
 
-He is Automation enthusiast for many reasons, and I'd like to share that passion with you too!
+He is Automation enthusiast for many reasons, and He'd like to share that passion with you too!
 
 
 - 👀 I’m interested in Automation, Coding and DevOps
